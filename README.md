@@ -1,3 +1,3 @@
 #kusadasi-genclik-festivali-2017
 
-![Screenshot](kgf17.png)
+![Screenshot](kgf2017.png)
